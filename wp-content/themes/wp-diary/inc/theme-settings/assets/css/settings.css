@@ -509,14 +509,14 @@ table tr .btn-wrapper .button {
     width: 30px;
     height: 30px;
     content: '';
-    background-image: url(../images/cross.png);
+    background-image: url(./../images/cross.png);
     background-size: 30px auto;
     position: relative;
     top: -6px;
 }
 
 .mt-dashicons-yes::before {
-    background-image: url(../images/tick.png);
+    background-image: url(./../images/tick.png);
 }
 
 .theme-features-wrap.welcome-panel {

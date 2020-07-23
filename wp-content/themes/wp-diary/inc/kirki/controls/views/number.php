@@ -1,15 +1,3 @@
-<?php
-/**
- * Customizer controls underscore.js template.
- *
- * @package     Kirki
- * @subpackage  Controls
- * @copyright   Copyright (c) 2017, Aristeides Stathopoulos
- * @license    https://opensource.org/licenses/MIT
- * @since       3.0.27
- */
-
-?>
 <#
 data = _.defaults( data, {
 	label: '',

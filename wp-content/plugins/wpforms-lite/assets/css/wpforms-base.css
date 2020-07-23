@@ -881,7 +881,7 @@ body.rtl .wpforms-field-phone input[type=tel] {
 
 .wpforms-container .wpforms-datepicker-wrap .wpforms-datepicker-clear {
   position: absolute;
-  background-image: url(../images/times-solid-white.svg);
+  background-image: url(./../images/times-solid-white.svg);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-color: #cccccc;

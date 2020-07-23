@@ -562,7 +562,7 @@ Admin Form Builder - Fields panel
 -------------------------------------------------------------- */
 
 #wpforms-panel-fields .no-fields-preview {
-	background: url(../images/builder-default-arrow.png) no-repeat;
+	background: url(./../images/builder-default-arrow.png) no-repeat;
 	background-size: 148px 140px;
 	background-position: 50px 40px;
 	text-align: center;

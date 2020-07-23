@@ -51,7 +51,7 @@ div.wpforms-container .wpforms-form .choices[data-type*="select-one"] .choices__
 }
 
 div.wpforms-container .wpforms-form .choices[data-type*="select-one"] .choices__button {
-  background-image: url("../images/cross-inverse.svg");
+  background-image: url("./../images/cross-inverse.svg");
   padding: 0;
   background-size: 8px;
   position: absolute;
@@ -148,7 +148,7 @@ div.wpforms-container .wpforms-form .choices[data-type*="text"] .choices__button
   padding-left: 16px;
   border-left: 1px solid #0a4f7e;
   background-color: transparent;
-  background-image: url("../images/cross.svg");
+  background-image: url("./../images/cross.svg");
   background-size: 8px;
   background-position: center center;
   background-repeat: no-repeat;
