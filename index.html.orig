@@ -1,0 +1,1050 @@
+
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Jiang Nan &#8211; Software Developer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jiang Nan &raquo; Feed" href="http://localhost:8888/wordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jiang Nan &raquo; Comments Feed" href="http://localhost:8888/wordpress/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost:8888/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://localhost:8888/wordpress/wp-includes/css/dist/block-library/theme.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost:8888/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-72-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-72.css?ver=1595508455' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/global.css?ver=1595428092' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-27-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-27.css?ver=1595510342' type='text/css' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='http://localhost:8888/wordpress/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAllerta%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://localhost:8888/wordpress/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel="canonical" href="http://localhost:8888/wordpress/" />
+<link rel='shortlink' href='http://localhost:8888/wordpress/' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fwordpress%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fwordpress%2F&#038;format=xml" />
+<style id="mystickymenu" type="text/css">#mysticky-nav { width:100%; position: static; }#mysticky-nav.wrapfixed { position:fixed; left: 0px; margin-top:0px;  z-index: 99990; -webkit-transition: 0.3s; -moz-transition: 0.3s; -o-transition: 0.3s; transition: 0.3s; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"; filter: alpha(opacity=100); opacity:1; background-color: #ffffff;}#mysticky-nav .myfixed { margin:0 auto; float:none; border:0px; background:none; max-width:100%; }</style>			<style type="text/css">
+																															</style>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-My-Drawing-2.sketchpad-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-My-Drawing-2.sketchpad-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-My-Drawing-2.sketchpad-1-180x180.png" />
+<meta name="msapplication-TileImage" content="http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-My-Drawing-2.sketchpad-1-270x270.png" />
+<!-- OceanWP CSS -->
+<style type="text/css">
+/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:56px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.after-header-content-inner >a{line-height:56px}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:114px}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:223px}/* Footer Widgets CSS */#footer-widgets{padding:0 0 10px 0}#footer-widgets{background-color:#000000}#footer-widgets,#footer-widgets p,#footer-widgets li a:before,#footer-widgets .contact-info-widget span.oceanwp-contact-title,#footer-widgets .recent-posts-date,#footer-widgets .recent-posts-comments,#footer-widgets .widget-recent-posts-icons li .fa{color:#ffffff}
+</style></head>
+
+<body class="home page-template page-template-elementor_header_footer page page-id-27 wp-custom-logo wp-embed-responsive oceanwp-theme sidebar-mobile no-header-border default-breakpoint has-sidebar content-right-sidebar page-header-disabled has-breadcrumbs elementor-default elementor-template-full-width elementor-kit-30 elementor-page elementor-page-27"  itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="full_screen-header clr" data-height="56" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+		
+
+<div id="site-header-inner" class="clr container">
+
+	
+	
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="http://localhost:8888/wordpress/" class="custom-logo-link" rel="home"><img width="1134" height="464" src="http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-e3bdf955-3b9e-4fda-8331-a6f59a7f4c60.sketchpad.png" class="custom-logo" alt="Jiang Nan" srcset="http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-e3bdf955-3b9e-4fda-8331-a6f59a7f4c60.sketchpad.png 1134w, http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-e3bdf955-3b9e-4fda-8331-a6f59a7f4c60.sketchpad-300x123.png 300w, http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-e3bdf955-3b9e-4fda-8331-a6f59a7f4c60.sketchpad-1024x419.png 1024w, http://localhost:8888/wordpress/wp-content/uploads/2020/07/cropped-e3bdf955-3b9e-4fda-8331-a6f59a7f4c60.sketchpad-768x314.png 768w" sizes="(max-width: 1134px) 100vw, 1134px" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+
+	<div id="site-navigation-wrap" class="clr">
+
+		<div class="menu-bar-wrap clr">
+			<div class="menu-bar-inner clr">
+				<a href="#" class="menu-bar"><span class="ham"></span></a>
+			</div>
+		</div>
+
+		<div id="full-screen-menu" class="clr">
+			<div id="full-screen-menu-inner" class="clr">
+				
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+
+				<ul id="menu-primary-menu" class="main-menu fs-dropdown-menu"><li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="#about" class="menu-link"><span class="text-wrap">About Me</span></a></li><li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="#skill" class="menu-link"><span class="text-wrap">My Skill Set</span></a></li><li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="#work" class="menu-link"><span class="text-wrap">Working Experience</span></a></li><li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="#project" class="menu-link"><span class="text-wrap">Featured Projects</span></a></li><li id="menu-item-128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="#resume" class="menu-link"><span class="text-wrap">My Resume</span></a></li><li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a href="#resume" class="menu-link"><span class="text-wrap">Contact Me</span></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+			
+			
+		
+		
+				</div>
+		</div>
+
+	</div><!-- #site-header-wrap -->
+
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu" aria-label="Mobile Menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+
+</div><!-- #site-header-inner -->
+
+
+
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+						<div data-elementor-type="wp-page" data-elementor-id="27" class="elementor elementor-27" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-5aaab314 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="5aaab314" data-element_type="section" id="top" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-ac81feb elementor-column elementor-col-100 elementor-top-column" data-id="ac81feb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-51c6c7d elementor-absolute elementor-invisible elementor-widget elementor-widget-heading" data-id="51c6c7d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">JIANG NAN</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-47a1f7e4 elementor-absolute elementor-invisible elementor-widget elementor-widget-heading" data-id="47a1f7e4" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:0}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><i>Coding. Learning. Dreaming. </i></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-48a3855e elementor-absolute elementor-widget elementor-widget-divider" data-id="48a3855e" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-43c5564a elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-height-default elementor-section elementor-top-section" data-id="43c5564a" data-element_type="section" id="about">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4cd20277 elementor-column elementor-col-50 elementor-top-column" data-id="4cd20277" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-643a27a3 elementor-column elementor-col-50 elementor-top-column" data-id="643a27a3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+							<div class="elementor-background-overlay"></div>
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-23195898 elementor-widget elementor-widget-heading" data-id="23195898" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">About Me</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-27b1a78b elementor-widget elementor-widget-heading" data-id="27b1a78b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-xl">I'm a final year computer science undergraduate student at Nanyang Technological University of Singapore. I'm passionate about programming, and eager to learn more in the fast-paced industry. I love <span style="font-family: Roboto, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600;">building products</span> that can <span style="font-family: Roboto, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600;">add value to business and services, </span>and I enjoy working with amazing people and teams. <br><br>I'm currently open to any part-time / full-time software engineer positions in Singapore. Interested to know more about me? Explore the site and let me impress you.</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b78254 elementor-mobile-align-center elementor-absolute elementor-widget elementor-widget-button" data-id="7b78254" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan-7.17.pdf.zip" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"><b>Download My Résumé </b></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fd81757 elementor-mobile-align-center elementor-absolute elementor-widget elementor-widget-button" data-id="fd81757" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#contact" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"><b>Get In Touch</b></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-39404d94 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="39404d94" data-element_type="section" id="skill" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-13ab396d elementor-column elementor-col-100 elementor-top-column" data-id="13ab396d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c3ea86c elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="c3ea86c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">MY SKILL SET</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-717b2cf elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="717b2cf" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">I have been actively involved in mobile, web and game development projects in the past 3 years, and I'm continuously learning and upgrading my skill set to stay relevant in the industry.</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7b1baa5 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="7b1baa5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-bbab752 elementor-column elementor-col-33 elementor-top-column" data-id="bbab752" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c51cdaa animated-slow elementor-view-default elementor-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-icon-box" data-id="c51cdaa" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fab fa-android"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Android Development</span>
+				</h3>
+								<p class="elementor-icon-box-description"><span style="font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;">Android Studio, Java, XML, SQLite</span><span style="font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;"></span></p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7edbee0 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="7edbee0" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-gamepad"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Game Development</span>
+				</h3>
+								<p class="elementor-icon-box-description">Unity, C#</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-bfb4c60 elementor-column elementor-col-33 elementor-top-column" data-id="bfb4c60" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3af1e5f elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="3af1e5f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fab fa-apple"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >iOS Development</span>
+				</h3>
+								<p class="elementor-icon-box-description">Xcode, Swift, Objective-C</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-104ecb2 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="104ecb2" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-language"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Other Languages</span>
+				</h3>
+								<p class="elementor-icon-box-description">Python, C/C++, Objective-C, SQL, GraphQL</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0086845 elementor-column elementor-col-33 elementor-top-column" data-id="0086845" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-41f7c4a elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="41f7c4a" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-desktop"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Web Development</span>
+				</h3>
+								<p class="elementor-icon-box-description">JavaScript, HTML, CSS/SASS, React, Django</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c965b31 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c965b31" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-toolbox"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span >Other Tools</span>
+				</h3>
+								<p class="elementor-icon-box-description">Git / GitHub, Postman, Jenkins, Microsoft Office Suite, Adobe Photoshop</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-2fcd3c8 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="2fcd3c8" data-element_type="section" id="work" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e28b0e6 elementor-column elementor-col-100 elementor-top-column" data-id="e28b0e6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-9c6968a elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="9c6968a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">WORK EXPERIENCE</h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-c45a125 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="c45a125" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6dabb17 elementor-column elementor-col-50 elementor-inner-column" data-id="6dabb17" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-fa35217 elementor-widget elementor-widget-image" data-id="fa35217" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="342" src="http://localhost:8888/wordpress/wp-content/uploads/2020/07/kisspng-paypal-business-logo-computer-icons-payment-gateway-5b2485d3b55bb7.2409095815291202117429-1024x342.png" class="attachment-large size-large" alt="" srcset="http://localhost:8888/wordpress/wp-content/uploads/2020/07/kisspng-paypal-business-logo-computer-icons-payment-gateway-5b2485d3b55bb7.2409095815291202117429-1024x342.png 1024w, http://localhost:8888/wordpress/wp-content/uploads/2020/07/kisspng-paypal-business-logo-computer-icons-payment-gateway-5b2485d3b55bb7.2409095815291202117429-300x100.png 300w, http://localhost:8888/wordpress/wp-content/uploads/2020/07/kisspng-paypal-business-logo-computer-icons-payment-gateway-5b2485d3b55bb7.2409095815291202117429-768x256.png 768w, http://localhost:8888/wordpress/wp-content/uploads/2020/07/kisspng-paypal-business-logo-computer-icons-payment-gateway-5b2485d3b55bb7.2409095815291202117429.png 1250w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-41a8c67 elementor-widget elementor-widget-heading" data-id="41a8c67" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Software Developer Intern in Consumer Financial Services Team, PayPal</h4>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a6ee4c1 elementor-column elementor-col-50 elementor-inner-column" data-id="a6ee4c1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1e1bb47 elementor-widget elementor-widget-heading" data-id="1e1bb47" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Aug 2019 - Jan 2020</h3>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cd089a5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="cd089a5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b9058ff elementor-column elementor-col-11 elementor-inner-column" data-id="b9058ff" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a11112d elementor-column elementor-col-11 elementor-inner-column" data-id="a11112d" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6b495f4 elementor-column elementor-col-11 elementor-inner-column" data-id="6b495f4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-41de9f1 elementor-align-center elementor-widget elementor-widget-button" data-id="41de9f1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Swift</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a01a3c5 elementor-column elementor-col-11 elementor-inner-column" data-id="a01a3c5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8cb567a elementor-align-center elementor-widget elementor-widget-button" data-id="8cb567a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">XCode</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a5ab42d elementor-column elementor-col-11 elementor-inner-column" data-id="a5ab42d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ab7704f elementor-align-center elementor-widget elementor-widget-button" data-id="ab7704f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Java</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-eaffd2e elementor-column elementor-col-11 elementor-inner-column" data-id="eaffd2e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-48c624d elementor-align-center elementor-widget elementor-widget-button" data-id="48c624d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Android</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a7eaf89 elementor-column elementor-col-11 elementor-inner-column" data-id="a7eaf89" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a152e6b elementor-align-center elementor-widget elementor-widget-button" data-id="a152e6b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Agile</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f354532 elementor-column elementor-col-11 elementor-inner-column" data-id="f354532" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6d0ffe7 elementor-column elementor-col-11 elementor-inner-column" data-id="6d0ffe7" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-b9b64c4 elementor-widget elementor-widget-heading" data-id="b9b64c4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default"><span style="font-weight: normal;">
+Maintained, improved, implemented, and tested PayPal Mobile App features to improve consumer experience in financial services including virtual card and unified payment, deposits and withdrawals, finance planning etc.
+
+<br><br>Built configurable UI components with user-friendly APIs for PayPal iOS App, in strict compliance with
+design specifications; strengthened and streamlined internal processes and workflows.
+
+<br><br>Documented eligibility rules and inter-module communications of team-owned features to facilitate the
+understanding of the system design and workflow for the project division.</span></h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e084ee6 elementor-widget elementor-widget-heading" data-id="e084ee6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Custom Alert Component Built for PayPal iOS App:</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2588a72 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="2588a72" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" src="https://www.youtube.com/embed/SbRBXcoVY8w?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-fa63306 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="fa63306" data-element_type="section" id="project" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f1f64d9 elementor-column elementor-col-100 elementor-top-column" data-id="f1f64d9" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5c63d5b4 elementor-widget elementor-widget-heading" data-id="5c63d5b4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FEATURED PROJECTS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0b29c07 elementor-widget elementor-widget-heading" data-id="0b29c07" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Little Tomato - The Maze Solving Robot </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c08f242 elementor-view-default elementor-widget elementor-widget-icon" data-id="c08f242" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="https://github.com/JiangNann/Maze-Solving-Robot">
+			<i aria-hidden="true" class="fab fa-github"></i>			</a>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-6788838 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6788838" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c9bf534 elementor-column elementor-col-33 elementor-inner-column" data-id="c9bf534" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a10aeb1 elementor-align-center elementor-widget elementor-widget-button" data-id="a10aeb1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Python</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-01dcdc5 elementor-column elementor-col-33 elementor-inner-column" data-id="01dcdc5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2a73d40 elementor-align-center elementor-widget elementor-widget-button" data-id="2a73d40" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">TkInter</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-ec38ba7 elementor-column elementor-col-33 elementor-inner-column" data-id="ec38ba7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2169bf0 elementor-absolute elementor-widget elementor-widget-heading" data-id="2169bf0" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">As supported by of 4 subsystems, namely Algorithm, Android, Raspberry Pi and Arduino, ur amazing Little Tomato can efficiently traverse, map and display an unknown area, travel by the fastest path between 2 locations, as well as detect, recognize and locate images on its way.</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-890a953 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="890a953" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5c4cd88 elementor-column elementor-col-100 elementor-top-column" data-id="5c4cd88" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6a0251a elementor-widget elementor-widget-heading" data-id="6a0251a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Project video with a lot of fun and hardwork:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2e3b1e2 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="2e3b1e2" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" data-lazy-load="https://www.youtube.com/embed/bZuIBT58aNs?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(http://localhost:8888/wordpress/wp-content/uploads/2020/07/Screenshot-2020-07-23-at-7.53.21-PM.png);">
+														</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6e1cf32 elementor-widget elementor-widget-heading" data-id="6e1cf32" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Desktop simulator demonstrating the exploration and fastest-path algorithm:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3d58fe4 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="3d58fe4" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" data-lazy-load="https://www.youtube.com/embed/aQG2p729QJA?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(http://localhost:8888/wordpress/wp-content/uploads/2020/07/Screenshot-2020-07-23-at-7.53.21-PM-768x430.png);">
+														</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-90ebb92 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="90ebb92" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-88c59a5 elementor-column elementor-col-100 elementor-top-column" data-id="88c59a5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-ce6c646 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="ce6c646" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-44a215b elementor-column elementor-col-100 elementor-top-column" data-id="44a215b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e75ccad elementor-widget elementor-widget-heading" data-id="e75ccad" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">"Smart Plan" - Mobile App Feature <br>Finalist for PayPal Consumer Hackathon 2019<b> </b></h2>		</div>
+				</div>
+				<section class="elementor-element elementor-element-aa472dd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="aa472dd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b4570a1 elementor-column elementor-col-50 elementor-inner-column" data-id="b4570a1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ec9eec2 elementor-align-center elementor-widget elementor-widget-button" data-id="ec9eec2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Swift</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3f3b32c elementor-align-center elementor-widget elementor-widget-button" data-id="3f3b32c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">XCode</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7c5defe elementor-column elementor-col-50 elementor-inner-column" data-id="7c5defe" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6ef7002 elementor-widget elementor-widget-heading" data-id="6ef7002" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Smart plan is a feature my team created for the PayPal Consumer App, with the aim to help individuals regulate their spending through either a saving or a smoothing plan. <br><br>
+In the saving plan, if the upcoming bill is below a preset budget, we set aside the extra amount as savings, which will be used to pay for future bills that exceed the budget. <br><br>
+In a the smoothing plan, an algorithm was developed to predict the user's spending pattern. We smooth out bills for a user by charging the user roughly the same bill amount every time. This aims to provide certainty and consistency across bill payments, preventing bill shock.</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-aae85b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="aae85b6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f977a80 elementor-column elementor-col-100 elementor-top-column" data-id="f977a80" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7c3dac5 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="7c3dac5" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" src="https://www.youtube.com/embed/AevRflZLuoA?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(http://localhost:8888/wordpress/wp-content/uploads/2020/07/Screenshot-2020-07-23-at-7.53.21-PM-768x430.png);">
+														</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-5b6af89 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5b6af89" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f184e6d elementor-column elementor-col-100 elementor-top-column" data-id="f184e6d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-20ca7f1 elementor-widget elementor-widget-heading" data-id="20ca7f1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Crisis Management System (CMS) -  Web Application</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d529ee0 elementor-view-default elementor-widget elementor-widget-icon" data-id="d529ee0" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="https://github.com/JiangNann/Crisis-Management-System-CMS">
+			<i aria-hidden="true" class="fab fa-github"></i>			</a>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-be9d532 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="be9d532" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7453cc4 elementor-column elementor-col-50 elementor-inner-column" data-id="7453cc4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1d2370d elementor-align-center elementor-widget elementor-widget-button" data-id="1d2370d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">JavaScript</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-737b648 elementor-align-center elementor-widget elementor-widget-button" data-id="737b648" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">HTML</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-aecdf33 elementor-column elementor-col-50 elementor-inner-column" data-id="aecdf33" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-87556ab elementor-widget elementor-widget-heading" data-id="87556ab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">The system aims to facilitate the collaborations between government agencies in Singapore for crisis management. <br><br>It serves as an integrated platform for reporting, monitoring and managing incidents. <br><br>The instantaneous updates and seamless user experience it provides allows the government agencies to manage crisis with greater efficiency.  </h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1ae2535 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1ae2535" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-16675cf elementor-column elementor-col-100 elementor-top-column" data-id="16675cf" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-8b373b0 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="8b373b0" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="youtube Video Player" src="https://www.youtube.com/embed/BDBIkziQnvc?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0"></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(http://localhost:8888/wordpress/wp-content/uploads/2020/07/Screenshot-2020-07-23-at-7.53.21-PM-768x430.png);">
+														</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7285c92 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="7285c92" data-element_type="section" id="resume" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:103,&quot;url&quot;:&quot;http:\/\/localhost:8888\/wordpress\/wp-content\/uploads\/2020\/07\/markus-winkler-7iSEHWsxPLw-unsplash-scaled.jpg&quot;}],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-9cba921 elementor-column elementor-col-100 elementor-top-column" data-id="9cba921" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-22ec5d9 elementor-mobile-align-center elementor-absolute elementor-align-center elementor-widget elementor-widget-button" data-id="22ec5d9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan-7.17.pdf.zip" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"><b>Download pdf </b></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-757c579 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="757c579" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">GRAB MY RÉSUMÉ BEFORE YOU GO!</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner">
+
+				<div data-elementor-type="wp-post" data-elementor-id="72" class="elementor elementor-72" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-733b60dc elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="733b60dc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7a7044c1 elementor-column elementor-col-100 elementor-top-column" data-id="7a7044c1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-78bcb906 elementor-shape-rounded elementor-widget elementor-widget-social-icons" data-id="78bcb906" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-mail-bulk elementor-repeater-item-eda7db0" href="mailto:jiangnnann@gmail.com" target="_blank">
+					<span class="elementor-screen-only">Mail-bulk</span>
+					<i class="fas fa-mail-bulk"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-github elementor-repeater-item-d94ea63" href="https://github.com/JiangNann?tab=repositories" target="_blank">
+					<span class="elementor-screen-only">Github</span>
+					<i class="fab fa-github"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-1406eb5" href="https://www.linkedin.com/in/jiangnann/" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fab fa-linkedin"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-ff477a1" href="https://www.instagram.com/g1nger__ginger/?hl=en" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2a8f4e51 elementor-align-center elementor-widget elementor-widget-button" data-id="2a8f4e51" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="far fa-copyright"></i>			</span>
+						<span class="elementor-button-text">Jiang Nan 2020</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-up" aria-label="Scroll to the top of the page"></span></a>
+
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close" aria-label="Close mobile Menu">
+		<i class="icon icon-close" aria-hidden="true"></i><span class="close-text">Close Menu</span>
+	</a>
+</div>
+
+	
+	
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="http://localhost:8888/wordpress/" class="mobile-searchform" role="search" aria-label="Search for:">
+		<label for="ocean-mobile-search1">
+			<input type="search" name="s" autocomplete="off" placeholder="Search" />
+			<button type="submit" class="searchform-submit" aria-label="Submit Search">
+				<i class="icon icon-magnifier" aria-hidden="true"></i>
+			</button>
+					</label>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/localhost:8888\/wordpress\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/mystickymenu/js/detectmobilebrowser.js?ver=2.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var option = {"mystickyClass":"#site-header","activationHeight":"70","disableWidth":"0","disableLargeWidth":"0","adminBar":"false","device_desktop":"1","device_mobile":"1","mystickyTransition":"slide","mysticky_disable_down":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/mystickymenu/js/mystickymenu.min.js?ver=2.4.3'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.8.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"disabled","sidrSource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"http:\/\/localhost:8888\/wordpress\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.8.6'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.8.6'></script>
+<![endif]-->
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.14'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.14'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.14","urls":{"assets":"http:\/\/localhost:8888\/wordpress\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":27,"title":"Jiang%20Nan%20%E2%80%93%20Software%20Developer","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.14'></script>
+</body>
+</html>
