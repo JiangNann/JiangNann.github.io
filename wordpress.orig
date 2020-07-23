@@ -41,7 +41,7 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-animations-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/global.css?ver=1595428092' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-27-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-27.css?ver=1595516501' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-27-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-27.css?ver=1595521598' type='text/css' media='all' />
 <link rel='stylesheet' id='oe-widgets-style-css'  href='http://localhost:8888/wordpress/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAllerta%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
@@ -218,7 +218,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-7b78254 elementor-mobile-align-center elementor-absolute elementor-widget elementor-widget-button" data-id="7b78254" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan-7.17.pdf.zip" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
+			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan_Resume.pdf" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text"><b>Download My Résumé </b></span>
 		</span>
@@ -878,7 +878,7 @@ In a the smoothing plan, an algorithm was developed to predict the user's spendi
 				<div class="elementor-element elementor-element-22ec5d9 elementor-mobile-align-center elementor-absolute elementor-align-center elementor-widget elementor-widget-button" data-id="22ec5d9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan-7.17.pdf.zip" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
+			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan_Resume.pdf" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text"><b>Download pdf </b></span>
 		</span>
