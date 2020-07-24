@@ -37,11 +37,11 @@ img.emoji {
 <link rel='stylesheet' id='slick-css'  href='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
 <link rel='stylesheet' id='oceanwp-style-css'  href='http://localhost:8888/wordpress/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.6' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.14' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-72-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-72.css?ver=1595508455' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-72-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-72.css?ver=1595564238' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-animations-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/global.css?ver=1595428092' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-27-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-27.css?ver=1595522726' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-27-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-27.css?ver=1595564214' type='text/css' media='all' />
 <link rel='stylesheet' id='oe-widgets-style-css'  href='http://localhost:8888/wordpress/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAllerta%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
@@ -449,7 +449,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-41de9f1 elementor-align-center elementor-widget elementor-widget-button" data-id="41de9f1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Swift</span>
 		</span>
@@ -466,7 +466,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-8cb567a elementor-align-center elementor-widget elementor-widget-button" data-id="8cb567a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">XCode</span>
 		</span>
@@ -483,7 +483,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-ab7704f elementor-align-center elementor-widget elementor-widget-button" data-id="ab7704f" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Java</span>
 		</span>
@@ -500,7 +500,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-48c624d elementor-align-center elementor-widget elementor-widget-button" data-id="48c624d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Android</span>
 		</span>
@@ -517,7 +517,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-a152e6b elementor-align-center elementor-widget elementor-widget-button" data-id="a152e6b" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Agile</span>
 		</span>
@@ -545,14 +545,9 @@ img.emoji {
 		</section>
 				<div class="elementor-element elementor-element-b9b64c4 elementor-widget elementor-widget-heading" data-id="b9b64c4" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h5 class="elementor-heading-title elementor-size-default"><span style="font-weight: normal;">
-Maintained, improved, implemented, and tested PayPal Mobile App features to improve consumer experience in financial services including virtual card and unified payment, deposits and withdrawals, finance planning etc.
-
-<br><br>Built configurable UI components with user-friendly APIs for PayPal iOS App, in strict compliance with
-design specifications; strengthened and streamlined internal processes and workflows.
-
-<br><br>Documented eligibility rules and inter-module communications of team-owned features to facilitate the
-understanding of the system design and workflow for the project division.</span></h5>		</div>
+			<h5 class="elementor-heading-title elementor-size-default">Maintained, improved, implemented, and tested PayPal Mobile App features to improve consumer experience in financial services including virtual card and unified payment, deposits and withdrawals, finance planning etc.<br><br>Built configurable UI components with user-friendly APIs for PayPal iOS App, in strict compliance with
+design specifications; strengthened and streamlined internal processes and workflows.<br><br>Documented eligibility rules and inter-module communications of team-owned features to facilitate the
+understanding of the system design and workflow for the project division.</h5>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e084ee6 elementor-widget elementor-widget-heading" data-id="e084ee6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -597,13 +592,13 @@ understanding of the system design and workflow for the project division.</span>
 				<section class="elementor-element elementor-element-6788838 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6788838" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div class="elementor-element elementor-element-c9bf534 elementor-column elementor-col-33 elementor-inner-column" data-id="c9bf534" data-element_type="column">
+				<div class="elementor-element elementor-element-c9bf534 elementor-column elementor-col-50 elementor-inner-column" data-id="c9bf534" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-a10aeb1 elementor-align-center elementor-widget elementor-widget-button" data-id="a10aeb1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Python</span>
 		</span>
@@ -611,16 +606,10 @@ understanding of the system design and workflow for the project division.</span>
 		</div>
 				</div>
 				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-01dcdc5 elementor-column elementor-col-33 elementor-inner-column" data-id="01dcdc5" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-2a73d40 elementor-align-center elementor-widget elementor-widget-button" data-id="2a73d40" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">TkInter</span>
 		</span>
@@ -631,10 +620,10 @@ understanding of the system design and workflow for the project division.</span>
 						</div>
 			</div>
 		</div>
-				<div class="elementor-element elementor-element-ec38ba7 elementor-column elementor-col-33 elementor-inner-column" data-id="ec38ba7" data-element_type="column">
+				<div class="elementor-element elementor-element-ec38ba7 elementor-column elementor-col-50 elementor-inner-column" data-id="ec38ba7" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-2169bf0 elementor-absolute elementor-widget elementor-widget-heading" data-id="2169bf0" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-2169bf0 elementor-widget elementor-widget-heading" data-id="2169bf0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">As supported by of 4 subsystems, namely Algorithm, Android, Raspberry Pi and Arduino, ur amazing Little Tomato can efficiently traverse, map and display an unknown area, travel by the fastest path between 2 locations, as well as detect, recognize and locate images on its way.</h2>		</div>
 				</div>
@@ -658,7 +647,7 @@ understanding of the system design and workflow for the project division.</span>
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-6a0251a elementor-widget elementor-widget-heading" data-id="6a0251a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Project video with a lot of fun and hardwork:</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Project video with a lot of fun and hard work:</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-2e3b1e2 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="2e3b1e2" data-element_type="widget" data-settings="{&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
@@ -706,18 +695,18 @@ understanding of the system design and workflow for the project division.</span>
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-e75ccad elementor-widget elementor-widget-heading" data-id="e75ccad" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">"Smart Plan" - Mobile App Feature <br>Finalist for PayPal Consumer Hackathon 2019<b> </b></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">"Smart Plan" - Mobile App Feature<br> Finalist for PayPal Consumer Hackathon 2019<b> </b></h2>		</div>
 				</div>
-				<section class="elementor-element elementor-element-aa472dd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="aa472dd" data-element_type="section">
+				<section class="elementor-element elementor-element-90dd654 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="90dd654" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div class="elementor-element elementor-element-b4570a1 elementor-column elementor-col-50 elementor-inner-column" data-id="b4570a1" data-element_type="column">
+				<div class="elementor-element elementor-element-e3b8f9f elementor-column elementor-col-50 elementor-inner-column" data-id="e3b8f9f" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-ec9eec2 elementor-align-center elementor-widget elementor-widget-button" data-id="ec9eec2" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Swift</span>
 		</span>
@@ -728,7 +717,7 @@ understanding of the system design and workflow for the project division.</span>
 				<div class="elementor-element elementor-element-3f3b32c elementor-align-center elementor-widget elementor-widget-button" data-id="3f3b32c" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">XCode</span>
 		</span>
@@ -739,14 +728,12 @@ understanding of the system design and workflow for the project division.</span>
 						</div>
 			</div>
 		</div>
-				<div class="elementor-element elementor-element-7c5defe elementor-column elementor-col-50 elementor-inner-column" data-id="7c5defe" data-element_type="column">
+				<div class="elementor-element elementor-element-1a2c1eb elementor-column elementor-col-50 elementor-inner-column" data-id="1a2c1eb" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-6ef7002 elementor-widget elementor-widget-heading" data-id="6ef7002" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-9a94be9 elementor-widget elementor-widget-heading" data-id="9a94be9" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Smart plan is a feature my team created for the PayPal Consumer App, with the aim to help individuals regulate their spending through either a saving or a smoothing plan. <br><br>
-In the saving plan, if the upcoming bill is below a preset budget, we set aside the extra amount as savings, which will be used to pay for future bills that exceed the budget. <br><br>
-In a the smoothing plan, an algorithm was developed to predict the user's spending pattern. We smooth out bills for a user by charging the user roughly the same bill amount every time. This aims to provide certainty and consistency across bill payments, preventing bill shock.</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Smart plan is a feature my team created for the PayPal Consumer App, with the aim to help individuals regulate their spending through either a saving or a smoothing plan. <br>In the saving plan, if the upcoming bill is below a preset budget, we set aside the extra amount as savings, which will be used to pay for future bills that exceed the budget. <br>In a the smoothing plan, an algorithm was developed to predict the user's spending pattern. We smooth out bills for a user by charging the user roughly the same bill amount every time. This aims to provide certainty and consistency across bill payments, preventing bill shock.​</h2>		</div>
 				</div>
 						</div>
 			</div>
@@ -798,16 +785,16 @@ In a the smoothing plan, an algorithm was developed to predict the user's spendi
 		</div>
 				</div>
 				</div>
-				<section class="elementor-element elementor-element-be9d532 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="be9d532" data-element_type="section">
+				<section class="elementor-element elementor-element-c387134 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="c387134" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div class="elementor-element elementor-element-7453cc4 elementor-column elementor-col-50 elementor-inner-column" data-id="7453cc4" data-element_type="column">
+				<div class="elementor-element elementor-element-ba0adcb elementor-column elementor-col-50 elementor-inner-column" data-id="ba0adcb" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-1d2370d elementor-align-center elementor-widget elementor-widget-button" data-id="1d2370d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">JavaScript</span>
 		</span>
@@ -818,7 +805,7 @@ In a the smoothing plan, an algorithm was developed to predict the user's spendi
 				<div class="elementor-element elementor-element-737b648 elementor-align-center elementor-widget elementor-widget-button" data-id="737b648" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a class="elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">HTML</span>
 		</span>
@@ -829,12 +816,16 @@ In a the smoothing plan, an algorithm was developed to predict the user's spendi
 						</div>
 			</div>
 		</div>
-				<div class="elementor-element elementor-element-aecdf33 elementor-column elementor-col-50 elementor-inner-column" data-id="aecdf33" data-element_type="column">
+				<div class="elementor-element elementor-element-d94d692 elementor-column elementor-col-50 elementor-inner-column" data-id="d94d692" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-87556ab elementor-widget elementor-widget-heading" data-id="87556ab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-92cfc63 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="92cfc63" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">The system aims to facilitate the collaborations between government agencies in Singapore for crisis management. <br><br>It serves as an integrated platform for reporting, monitoring and managing incidents. <br><br>The instantaneous updates and seamless user experience it provides allows the government agencies to manage crisis with greater efficiency.  </h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">The system aims to facilitate the collaborations between government agencies in Singapore for crisis management. 
+
+It serves as an integrated platform for reporting, monitoring and managing incidents. 
+
+The instantaneous updates and seamless user experience it provides allows the government agencies to manage crisis with greater efficiency.  ​</h2>		</div>
 				</div>
 						</div>
 			</div>
@@ -948,7 +939,7 @@ In a the smoothing plan, an algorithm was developed to predict the user's spendi
 				<div class="elementor-element elementor-element-2a8f4e51 elementor-align-center elementor-widget elementor-widget-button" data-id="2a8f4e51" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="far fa-copyright"></i>			</span>
