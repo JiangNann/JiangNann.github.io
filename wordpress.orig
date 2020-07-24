@@ -41,7 +41,7 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-animations-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.14' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-global-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/global.css?ver=1595428092' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-27-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-27.css?ver=1595564214' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-27-css'  href='http://localhost:8888/wordpress/wp-content/uploads/elementor/css/post-27.css?ver=1595566130' type='text/css' media='all' />
 <link rel='stylesheet' id='oe-widgets-style-css'  href='http://localhost:8888/wordpress/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAllerta%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://localhost:8888/wordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
@@ -194,31 +194,31 @@ img.emoji {
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-43c5564a elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-height-default elementor-section elementor-top-section" data-id="43c5564a" data-element_type="section" id="about">
+				<section class="elementor-element elementor-element-65c70fb elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-height-default elementor-section elementor-top-section" data-id="65c70fb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div class="elementor-element elementor-element-4cd20277 elementor-column elementor-col-50 elementor-top-column" data-id="4cd20277" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap">
-					<div class="elementor-widget-wrap">
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-643a27a3 elementor-column elementor-col-50 elementor-top-column" data-id="643a27a3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-acf30fa elementor-column elementor-col-100 elementor-top-column" data-id="acf30fa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-column-wrap  elementor-element-populated">
 							<div class="elementor-background-overlay"></div>
 					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-23195898 elementor-widget elementor-widget-heading" data-id="23195898" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-c77ff4e elementor-widget elementor-widget-heading" data-id="c77ff4e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">About Me</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-27b1a78b elementor-widget elementor-widget-heading" data-id="27b1a78b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-d668c37 elementor-widget elementor-widget-heading" data-id="d668c37" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-xl">I'm a final year computer science undergraduate student at Nanyang Technological University of Singapore. I'm passionate about programming, and eager to learn more in the fast-paced industry. I love <span style="font-family: Roboto, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600;">building products</span> that can <span style="font-family: Roboto, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600;">add value to business and services, </span>and I enjoy working with amazing people and teams. <br><br>I'm currently open to any part-time / full-time software engineer positions in Singapore. Interested to know more about me? Explore the site and let me impress you.</p>		</div>
+			<p class="elementor-heading-title elementor-size-xl">I'm a final year computer science undergraduate student at Nanyang Technological University of Singapore. <br><br>I'm passionate about programming, and eager to learn more in the fast-paced industry. I love <span style="font-family: Roboto, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600;">building products</span> that can <span style="font-family: Roboto, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 600;">add value to business and services, </span>and I enjoy working with amazing people and teams. I'm currently open to any part-time / full-time software engineer positions in Singapore. <br><br>Interested to know more about me? Explore the site and let me impress you.</p>		</div>
 				</div>
-				<div class="elementor-element elementor-element-7b78254 elementor-mobile-align-center elementor-absolute elementor-widget elementor-widget-button" data-id="7b78254" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<section class="elementor-element elementor-element-49fe459 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="49fe459" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-fbdb11d elementor-column elementor-col-50 elementor-inner-column" data-id="fbdb11d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-db01063 elementor-align-right elementor-widget elementor-widget-button" data-id="db01063" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan_Resume.pdf" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
+			<a href="http://localhost:8888/wordpress/wp-content/uploads/2020/07/Jiang-Nan_Resume.pdf" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text"><b>Download My Résumé </b></span>
 		</span>
@@ -226,10 +226,16 @@ img.emoji {
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-fd81757 elementor-mobile-align-center elementor-absolute elementor-widget elementor-widget-button" data-id="fd81757" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3f8aa51 elementor-column elementor-col-50 elementor-inner-column" data-id="3f8aa51" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b359569 elementor-align-left elementor-widget elementor-widget-button" data-id="b359569" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:jiangnnann@gmail.com" class="elementor-button-link elementor-button elementor-size-xs elementor-animation-grow" role="button">
+			<a href="mailto:jiangnnann@gmail.com" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text"><b>Get In Touch</b></span>
 		</span>
@@ -237,6 +243,12 @@ img.emoji {
 		</div>
 				</div>
 				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
 						</div>
 			</div>
 		</div>
